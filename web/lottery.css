@@ -1,0 +1,40 @@
+
+html {
+  
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.2em;
+}
+
+h1, p {
+  color: #333;
+}
+
+#container {
+  background: url('dartevent-flyer.png') no-repeat;
+  width: 1024px;
+  height: 768px;
+  position: relative;
+  margin : auto;
+  margin-top :00px;
+  border : 1px solid black;
+  
+}
+
+
+button {
+  background : #06a2d8;
+  border : 0px;
+  color : white;
+  width : 200px;
+  height : 50px;
+  margin : auto;
+  font-size : 30px;
+  margin-left : 400px;
+  margin-top : 500px;
+  
+}

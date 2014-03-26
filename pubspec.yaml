@@ -1,0 +1,6 @@
+name: Random
+description: A sample web application
+dependencies:
+  browser: any
+  game_loop:
+    git: https://github.com/johnmccutchan/game_loop.git
